@@ -1,0 +1,58 @@
+canvas {
+    border: 5px solid #cfeafa;
+    border-radius: 10px;
+    background-color: #cfeafa;
+    justify-content: center;
+    align-items: center;
+    margin-left: 0%;
+    margin: 0 auto;
+    margin-bottom: -13px;
+background-image: url("../assets/campo.png");
+background-size: 1012px 600px;
+}
+
+bloco1{
+    background-color: #0a4ed6;
+    width: 500px;
+    height: 500px;
+    justify-content: center;
+    align-items: end;
+}
+
+header{
+    margin-top: 0.4%;
+}
+body{
+    margin: 0 auto;
+    background-color: #cfeafa;
+    text-align: center;
+    overflow: hidden;
+    
+}
+body p{
+    background-color: #333;
+    color: #ed52b9;
+    padding: 6px;
+
+    font-family: "Jersey 10", sans-serif;
+    font-size: 35px;
+}
+/*body .gradedojogo
+{
+    background-image: url("../assets/fundo.png");
+    background-size: 920px 600px;
+
+}*/
+footer{
+    background-color: #333;
+    color: #f291f7;
+    padding: 8px;
+    text-align: center;
+    margin-top: 35px;
+    font-family: "Montserrat", sans-serif;
+
+}
+footer span{
+    font-size: 1.2em;
+    font-weight: 250 ;
+}
